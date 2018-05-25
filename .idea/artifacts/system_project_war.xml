@@ -1,0 +1,7 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="system-project:war">
+    <root id="archive" name="system-project.war">
+      <element id="artifact" artifact-name="system-project:war exploded" />
+    </root>
+  </artifact>
+</component>
